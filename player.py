@@ -43,4 +43,3 @@ class Druid(Player):
     vocation = "Druid"
     spell = "Tree"
     movement_speed = 20
-
